@@ -1,0 +1,144 @@
+
+Estatísticas de Quick Sort em ordem Aleatoria
+
+800 elementos:
+Tempo: 0.000000 	Trocas:     4489 	Comparações:    13258 
+
+2000 elementos:
+Tempo: 0.000000 	Trocas:     7865 	Comparações:   201576 
+
+5000 elementos:
+Tempo: 0.000000 	Trocas:    20278 	Comparações:  1394838 
+
+13000 elementos:
+Tempo: 0.016000 	Trocas:    68653 	Comparações:  9310092 
+
+48000 elementos:
+Tempo: 0.000000 	Trocas:   454962 	Comparações:  1367135 
+
+89000 elementos:
+Tempo: 0.032000 	Trocas:   828235 	Comparações:  2567621 
+
+144000 elementos:
+Tempo: 0.031000 	Trocas:  1651999 	Comparações:  4802763 
+
+377000 elementos:
+Tempo: 0.093000 	Trocas:  5004622 	Comparações: 14173954 
+
+610000 elementos:
+Tempo: 0.141000 	Trocas:  7451490 	Comparações: 22576504 
+
+987000 elementos:
+Tempo: 0.250000 	Trocas: 11822579 	Comparações: 36221249 
+
+
+Estatísticas de Quick Sort em ordem Crescente
+
+800 elementos:
+Tempo: 0.000000 	Trocas:      799 	Comparações:   319600 
+
+2000 elementos:
+Tempo: 0.000000 	Trocas:     1999 	Comparações:  1991029 
+
+5000 elementos:
+Tempo: 0.031000 	Trocas:     4999 	Comparações: 12497500 
+
+13000 elementos:
+Tempo: 0.282000 	Trocas:    12999 	Comparações: 84493500 
+
+
+Estatísticas de Quick Sort em ordem Decrescente
+
+800 elementos:
+Tempo: 0.000000 	Trocas:    48432 	Comparações:   377969 
+
+2000 elementos:
+Tempo: 0.015000 	Trocas:   165615 	Comparações:  1333252 
+
+5000 elementos:
+Tempo: 0.031000 	Trocas:   916260 	Comparações:  8003648 
+
+13000 elementos:
+Tempo: 0.204000 	Trocas:  6312270 	Comparações: 53592572 
+
+
+Estatísticas de Quick Sort 3-Way em ordem Aleatoria
+
+800 elementos:
+Tempo: 0.000000 	Trocas:     7840 	Comparações:    11615 
+
+2000 elementos:
+Tempo: 0.000000 	Trocas:    24000 	Comparações:    36726 
+
+5000 elementos:
+Tempo: 0.000000 	Trocas:    68593 	Comparações:   103676 
+
+13000 elementos:
+Tempo: 0.000000 	Trocas:   194090 	Comparações:   299177 
+
+48000 elementos:
+Tempo: 0.016000 	Trocas:   902956 	Comparações:  1351790 
+
+89000 elementos:
+Tempo: 0.047000 	Trocas:  1765715 	Comparações:  2683291 
+
+144000 elementos:
+Tempo: 0.078000 	Trocas:  3201965 	Comparações:  4786746 
+
+377000 elementos:
+Tempo: 0.156000 	Trocas:  8894772 	Comparações: 12877087 
+
+610000 elementos:
+Tempo: 0.266000 	Trocas: 15179696 	Comparações: 22871089 
+
+987000 elementos:
+Tempo: 0.359000 	Trocas: 25402371 	Comparações: 37324196 
+
+
+Estatísticas de Quick Sort 3-Way em ordem Crescente
+
+800 elementos:
+Tempo: 0.000000 	Trocas:    25773 	Comparações:    49759 
+
+2000 elementos:
+Tempo: 0.000000 	Trocas:    99055 	Comparações:   193451 
+
+5000 elementos:
+Tempo: 0.015000 	Trocas:   382074 	Comparações:   751218 
+
+13000 elementos:
+Tempo: 0.032000 	Trocas:  1553755 	Comparações:  3074598 
+
+48000 elementos:
+Tempo: 0.125000 	Trocas: 10719914 	Comparações: 21303835 
+
+89000 elementos:
+Tempo: 0.250000 	Trocas: 26770172 	Comparações: 53274810 
+
+144000 elementos:
+Tempo: 0.516000 	Trocas: 54642133 	Comparações: 108861680 
+
+377000 elementos:
+Tempo: 2.797000 	Trocas: 228553300 	Comparações: 455932846 
+
+610000 elementos:
+Tempo: 5.172000 	Trocas: 467785450 	Comparações: 933654146 
+
+987000 elementos:
+Tempo: 10.734000 	Trocas: 958439748 	Comparações: 1913528290 
+
+
+Estatísticas de Quick Sort 3-Way em ordem Decrescente
+
+800 elementos:
+Tempo: 0.000000 	Trocas:   198936 	Comparações:   257096 
+
+2000 elementos:
+Tempo: 0.000000 	Trocas:   238469 	Comparações:   339677 
+
+5000 elementos:
+Tempo: 0.015000 	Trocas:   860134 	Comparações:  1184918 
+
+13000 elementos:
+Tempo: 0.047000 	Trocas:  5413932 	Comparações:  7398456 
+
